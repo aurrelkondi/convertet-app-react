@@ -13,14 +13,17 @@ h1 {
   color: rgb(53, 111, 198);
 }
 .container {
+  width: 400px;
+  height: 200px;
+  padding-top: 40px;
   background-color: rgb(161, 161, 212);
 }
 
 .input {
   border: 2px solid #333;
-  border-radius: 0.3rem;
+  border-radius: 0.5rem;
   padding: 0.25rem;
-  width: 7em;
+  width: 10rem;
 }
 
 select {
