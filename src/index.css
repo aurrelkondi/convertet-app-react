@@ -10,10 +10,14 @@ body {
 h1 {
   margin: 0;
   margin-bottom: 0.5rem;
+  color: rgb(53, 111, 198);
+}
+.container {
+  background-color: rgb(161, 161, 212);
 }
 
 .input {
-  border: 1px solid #333;
+  border: 2px solid #333;
   border-radius: 0.3rem;
   padding: 0.25rem;
   width: 7em;
